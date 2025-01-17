@@ -15,3 +15,7 @@ A command-line to-do list application to add, delete, and mark tasks as complete
 ### 4. Contact Book
 A simple contact book application to store, search, and manage contact details like names and phone numbers.
 - [Explore Contact Book](./ContackBook.ipynb/)
+
+### 5. Expense Tracker System  
+A Python application to record, categorize, and track daily expenses, providing insights into spending habits and budget management.  
+[Explore Expense Tracker System](./ExpenseTracker.ipynb/)
