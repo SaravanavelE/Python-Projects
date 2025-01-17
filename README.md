@@ -2,7 +2,7 @@
 
 ### 1. Simple Calculator
 A basic calculator application that performs arithmetic operations such as addition, subtraction, multiplication, and division.
-- [Explore Simple Calculator](./SimpleCalculator.ipynb/)
+- [Explore Simple Calculator](./Simple_Calculator.ipynb/)
 
 ### 2. Number Guessing System
 An interactive game where the user guesses a randomly generated number within a specified range.
