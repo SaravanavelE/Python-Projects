@@ -18,4 +18,4 @@ A simple contact book application to store, search, and manage contact details l
 
 ### 5. Expense Tracker System  
 A Python application to record, categorize, and track daily expenses, providing insights into spending habits and budget management.  
-[Explore Expense Tracker System](./ExpenseTracker.ipynb/)
+- [Explore Expense Tracker System](./ExpenseTracker.ipynb/)
